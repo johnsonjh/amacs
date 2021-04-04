@@ -1,0 +1,1 @@
+;-*- Mode: Merlin -*-;; File: defs/var.equs;var_byte = $00var_int = $01var_string = $02var_flag = $03var_ftyp = $04;

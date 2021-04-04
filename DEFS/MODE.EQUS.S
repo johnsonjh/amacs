@@ -1,0 +1,1 @@
+;-*- Mode: Merlin -*-;; Mode equates are the internal numbers used for; representing the various modes.;Fund_Mode = $00Text_Mode = $01Merlin_Mode = $02Lisp_Mode = $03C_Mode = $04Pascal_Mode = $05LastRealMode = Pascal_Mode;; External Modes.DIRED_Mode = $06BUFED_Mode = $07MAIL_Mode = $08;

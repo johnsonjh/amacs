@@ -1,0 +1,1 @@
+;-*- Mode: Merlin -*-;; File: defs/display.equs;; The equates for calling the generic display driver.;dc_NoDisplay = $00dc_FindPoint = $01dc_DispDown = $02dc_DispLine = $03dc_DispToPnt = $04dc_DispPntEnd = $05dc_SetNewPage = $06dc_NewPage = $06

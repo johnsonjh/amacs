@@ -1,0 +1,1 @@
+;-*- Mode: Merlin -*-;; File: defs/asm.conds;IfSystemVer = 1  ;1 = yes, 0 = no.;
