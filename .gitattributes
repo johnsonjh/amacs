@@ -3,3 +3,9 @@ EXAMPLES/QUICKSORT.C linguist-vendored
 EXAMPLES/EXAMPLE.C linguist-vendored
 EXAMPLES/EXAMPLE.PASCAL linguist-vendored
 EXAMPLES/TOOL.PASCAL linguist-vendored
+*.PASCAL linguist-vendored
+*.C linguist-vendored
+*.LISP linguist-vendored
+.PASCAL linguist-vendored
+.C linguist-vendored
+.LISP linguist-vendored
